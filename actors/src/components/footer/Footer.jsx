@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className="App">
+    <div>
       <p className="Footer">&copy; React Actors</p>
     </div>
   )
